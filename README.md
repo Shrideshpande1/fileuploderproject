@@ -2,9 +2,10 @@
 
 <h4 align="center">file uploader is basically you can upload file, delete file and download file</h4>
 <br/>
-## for backend <br/>
 
-# npm i
+# for backend <br/>
+
+## npm i
 
 # backend links
 
