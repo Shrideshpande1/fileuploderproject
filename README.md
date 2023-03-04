@@ -9,7 +9,7 @@
 ## upload file(post)
 http://localhost:8080/upload
 
-## Get filr details(get)
+## Get file details(get)
 http://localhost:8080/list
 
 ## Delete file(delete)
@@ -18,4 +18,5 @@ localhost:8080/delete/file_name
 ## Download file
 localhost:8080/download/file_name
 
-
+##for frontend <br/>
+#npm i 
